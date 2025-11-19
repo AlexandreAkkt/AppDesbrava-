@@ -1,0 +1,18 @@
+[
+  {
+    "idade": 18,
+    "rg": "449887766",
+    "genero": "M",
+    "cpf": "36988776869",
+    "nome": "Thiago",
+    "sobrenome": "Souza"
+  },
+  {
+    "idade": 16,
+    "rg": "441779989",
+    "genero": "M",
+    "cpf": "22211133399",
+    "nome": "Thiago",
+    "sobrenome": "Silva"
+  }
+]
